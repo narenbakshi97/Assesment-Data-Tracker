@@ -4,6 +4,8 @@
 <!DOCTYPE html>
 <html>
   <body class="container-fluid">
+    <a href="homepage.php">Back</a>&nbsp;
+    <a href="index.php">Log Out</a>
     <main class="row">
       <div class="col-md-12 text-center">
         <form class="form" method="post">
